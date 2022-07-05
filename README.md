@@ -12,4 +12,4 @@ Klonlama işleminden sonra projeyi VISUAL STUDIO CODE programında açtım.
 
 [Teşekkürler Patika](https://app.patika.dev/)
 
-![Image](https://imgyukle.com/i/VDb2T1)
+![Image](https://imgyukle.com/f/2022/07/05/VDb2T1.png)
