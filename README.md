@@ -10,6 +10,6 @@ Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Klonlama işleminden sonra projeyi VISUAL STUDIO CODE programında açtım. 
 
-[Teşekkürler](https://app.patika.dev/)
+[Teşekkürler Patika](https://app.patika.dev/)
 
-! [Image] (https://imgyukle.com/i/VDb2T1)
+![Image](https://imgyukle.com/i/VDb2T1)
