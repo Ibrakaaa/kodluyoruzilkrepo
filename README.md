@@ -11,3 +11,5 @@ Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Klonlama işleminden sonra projeyi VISUAL STUDIO CODE programında açtım. 
 
 [Teşekkürler](https://app.patika.dev/)
+
+[Image] (C:\Users\Acer\Desktop\Resimler\mdi)
